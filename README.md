@@ -4,7 +4,7 @@
 
 📬 Email Me: sajidfaheem29@gmail.com — For Collaboration, Freelance Projects, or Just to Connect! 😊
 
-- 🌱 **I’m currently learning and working on:** Next.js & NestJS
+- 🌱 **I’m currently working on:** Next.js & NestJS
 
 - 👯 **I’m looking to collaborate on:** MERN Stack Apps, Next.js & NestJS Projects
 
